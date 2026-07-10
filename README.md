@@ -47,6 +47,4 @@ calculations/
 - Python
 - Microsoft Excel
 
-## Report
 
-See `docs/wastewater_cstr_report.pdf`
